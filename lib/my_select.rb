@@ -5,7 +5,7 @@ arr = []
     if yield(array[i]) == true
     arr.push(array[i])
     end
-    i+=1
+  i+=1
   end
   arr
 end
